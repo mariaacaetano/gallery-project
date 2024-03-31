@@ -1,4 +1,4 @@
-## Projeto: Galeria de Fotos
+# Projeto: Galeria de Fotos
 Este é meu primeiro projeto em desenvolvimento web, e o foco dele é aprender ferramentas de controle de eventos DOM e aplicação do modelo de caixa de maneira prática. O enunciado do projeto diz: Criar uma página da Web que exiba uma coleção de imagens. Você pode usar grade CSS ou flexbox para organizar as imagens e incluir recursos como efeitos de foco e sobreposições de imagem.
 
 ### Index
@@ -16,7 +16,7 @@ Todo o conteúdo e material utilizado para realizar esse projeto têm direitos a
 
 ##
 
-## Project: Photo Gallery
+# Project: Photo Gallery
 This is my first project in web development, its focus is learn DOM events control tools and box model aplication by a practice way. The project statement says: Create a web page that displays a collection of images. You can use CSS grid or flexbox to organize the images and include features such as focus effects and image overlays.
 
 ### Index
