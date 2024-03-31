@@ -12,7 +12,7 @@ Esta é a página principal, que mostra os cartazes dos filmes ou séries da Net
 </div>
 
 ### Importante!
-Todo o conteúdo e material utilizado para realizar esse projeto têm direitos autorais e foram usados unicamente como ferramenta de aprendizado pessoal. Portanto, nãa deve ser replicado para finalidades comerciais ou quaisquer outras que infrinjam termos de propriedade intelectual. 
+Todo o conteúdo e material utilizado para realizar esse projeto têm direitos autorais e foram usados unicamente como ferramenta de aprendizado pessoal. Portanto, não deve ser replicado para finalidades comerciais ou quaisquer outras que infrinjam termos de propriedade intelectual. 
 
 ##
 
