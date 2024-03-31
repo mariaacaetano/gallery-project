@@ -6,10 +6,10 @@ Esta é a página principal, que mostra os cartazes dos filmes ou séries da Net
 
 ### Ferramentas
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="../mariasamaa/readme_images/python_logo.png" alt="Linguagem Python" width="50">
-  <img src="../mariasamaa/readme_images/html_logo.png" alt="Linguagem HTML" width="50">
-  <img src="../mariasamaa/readme_images/css_logo.png" alt="Folhas de Estilo Cascata" width="50">
-  <img src="../mariasamaa/readme_images/javascript_logo.png" alt="Linguagem JavaScript" width="50">
+  <img src="../../mariasamaa/readme_images/python_logo.png" alt="Linguagem Python" width="50">
+  <img src="../../mariasamaa/readme_images/html_logo.png" alt="Linguagem HTML" width="50">
+  <img src="../../mariasamaa/readme_images/css_logo.png" alt="Folhas de Estilo Cascata" width="50">
+  <img src="../../mariasamaa/readme_images/javascript_logo.png" alt="Linguagem JavaScript" width="50">
 </div>
 HTML, CSS e JavaScript.
 
