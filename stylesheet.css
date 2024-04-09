@@ -59,6 +59,9 @@ body{
     width: 1400px;
     margin: 20px auto;
     columns: 5;
+    transition: 2s ease-in-out; 
+    /* transition: width 2s;
+    transition-timing-function: cubic-bezier(0.1, 0.7, 1.0, 0.1); */
 }
 
 .container .box {
@@ -67,12 +70,14 @@ body{
     break-inside: avoid;
 }
 
-
 .container .box img {
     max-width: 100%;
     border-radius: 15px;
     height: 400px;
+}
 
+.container .box img :hover{
+    transition: 0.2s ease-in-out;
 }
 
 .gallery {
@@ -85,13 +90,13 @@ body{
     width: 100%;
     margin-bottom: 20px ;
     break-inside: avoid;
+
 }
 
 .gallery .box img {
     max-width: 100%;
     border-radius: 10px;
     height: 450px;
-
 }
 
 
